@@ -1,0 +1,5 @@
+com\sauce\browserselection\BrowserFactory.class
+com\sauce\testcases\TestLoginPage.class
+com\sauce\pageelements\loginElements.class
+com\sauce\pageelements\InventoryElements.class
+com\sauce\testcases\TestInventory.class
